@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1701928261 source:c:\shared_work\test_mtk2_1\com_port.cpp
+	"Com_PORT.h"
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<pthread.h>
+	<sys/neutrino.h>
+	<time.h>
+	<errno.h>
+	<inttypes.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<fcntl.h>
+
+1701929815 c:\shared_work\test_mtk2_1\com_port.h
+	<windows.h>
+	<winnt.h>
+	<sys/types.h>
+	<fcntl.h>
+	<unistd.h>
+	<errno.h>
+	<termios.h>
+	<time.h>
+	<termios.h>
+	<sys/neutrino.h>
+	<errno.h>
+	<ioctl.h>
+	<fcntl.h>
+
+1702307210 source:c:\shared_work\test_mtk2_1\mtk2.cpp
+	"mtk2.h"
+	"stdio.h"
+	"string.h"
+
+1702308023 c:\shared_work\test_mtk2_1\mtk2.h
+
+1702308078 source:c:\shared_work\test_mtk2_1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"Com_PORT.h"
+	"mtk2.h"
+
